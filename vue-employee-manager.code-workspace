@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\jacob\\source\\vue-employee-manager"
+		}
+	],
+	"settings": {
+		"vetur.experimental.templateInterpolationService": false,
+		"vetur.format.defaultFormatter.html": "js-beautify-html",
+		"vetur.format.options.useTabs": false,
+		"vetur.format.scriptInitialIndent": true,
+		"vetur.format.styleInitialIndent": true,
+		"javascript.referencesCodeLens.enabled": true,
+		"editor.cursorBlinking": "phase",
+		"editor.fontFamily": "Input",
+		"editor.fontWeight": "400",
+		"editor.formatOnSave": true,
+		"workbench.list.horizontalScrolling": true,
+		"workbench.colorTheme": "Flatland Monokai",
+		"npm.enableScriptExplorer": true,
+		"vetur.format.defaultFormatter.js": "prettier-eslint",
+		"eslint.alwaysShowStatus": true,
+		"eslint.validate": [
+			"javascript",
+			"javascriptreact",
+			"vue"
+		]
+	}
+}
